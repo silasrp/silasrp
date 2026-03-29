@@ -51,6 +51,18 @@ Retrieval-Augmented Generation system that enables natural language querying ove
 
 ---
 
+### 🔹 Prompt Evaluation Playground
+
+Workbench for systematically testing and evaluating prompt engineering strategies across real LLMs.
+
+* Apply multiple prompting strategies to **OpenAI models**
+* Evaluate responses using an **LLM-as-a-judge** approach
+* Score outputs across **multiple quality dimensions**
+* Enable **structured comparison and prompt optimization**
+
+👉 https://github.com/silasrp/prompt-eval-lab
+
+---
 ### 🔹 Personal Portfolio
 
 Modern React-based portfolio built with Vite to showcase projects and technical direction.
