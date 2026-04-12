@@ -63,6 +63,21 @@ Workbench for systematically testing and evaluating prompt engineering strategie
 👉 https://github.com/silasrp/prompt-eval-lab
 
 ---
+
+### 🔹 CodeLens — Codebase Intelligence Platform
+
+Platform for analysing GitHub repositories and generating structured documentation and architectural insights.
+
+* AST parsing and symbol extraction via **tree-sitter**
+* **Graph-based analysis** of code dependencies and structure
+* **Layered LLM workflows** for documentation and system insights
+* Vector search over codebase using **embeddings + Qdrant**
+* Event-driven processing on **AWS (SQS, Lambda, DynamoDB, S3)**
+* Full-stack deployment with **FastAPI and React**
+
+👉 https://github.com/silasrp/codelens
+
+---
 ### 🔹 Personal Portfolio
 
 Modern React-based portfolio built with Vite to showcase projects and technical direction.
