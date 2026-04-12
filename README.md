@@ -1,6 +1,6 @@
 # Hi, I'm Silas 👋
 
-Software Engineer focused on building **AI-powered systems** and reliable **backend services**.
+Software Engineer currently upskilling and focusing on building **AI-powered systems** and reliable **backend services**.
 
 With a strong foundation in front and backend development (.NET, APIs, system design), I’m currently specialising in **applied AI**, designing and implementing systems that bring Large Language Models into real-world use cases.
 
